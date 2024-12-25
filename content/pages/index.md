@@ -135,7 +135,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: ''
+      - title: Leadership
         subtitle: University of Massachusetts Amherst
         text: >
           At Isenberg School of Management, I gained expertise in analytics,
