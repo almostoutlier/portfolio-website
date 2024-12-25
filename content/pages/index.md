@@ -211,7 +211,7 @@ sections:
         type: FeaturedItem
       - title: Site Reliability Engineer
         tagline: Temenos AG
-        subtitle: This is the item subtitle
+        subtitle: July 2021 - September 2022
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
