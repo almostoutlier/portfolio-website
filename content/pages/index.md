@@ -114,8 +114,7 @@ sections:
           to enhance efficiency and scale efforts effectively.
         image:
           type: ImageBlock
-          url: >-
-            /images/depositphotos_59774717-stock-illustration-graduation-cap-icon.jpg
+          url: /images/istockphoto-460357293-612x612.jpg
           altText: Image alt text placeholder
           elementId: ''
           styles:
