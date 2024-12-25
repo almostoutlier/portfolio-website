@@ -78,7 +78,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Experience
-        subtitle: Temenos AG
+        subtitle: 4+ Years
         text: >
           Worked on operational efficiency, cost optimization, and disaster
           recovery, driving significant automation and scalability improvements.
