@@ -184,7 +184,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Key Hi
+    subtitle: Key Highlights
     items:
       - title: Feature Item One
         tagline: This is the tagline
