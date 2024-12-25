@@ -134,13 +134,11 @@ sections:
       - title: Graduate
         subtitle: Faster
         text: >
-          Pursuing an MSBA at UMass Amherst, I aim to master advanced analytics,
-          data visualization, and machine learning techniques. I will gain
-          hands-on experience with key technologies such as Python, R, SQL,
-          Tableau, and cloud platforms like AWS and Azure, while honing skills
-          in big data processing, predictive modeling, and business strategy.
-          This program will equip me to translate complex data insights into
-          impactful decisions, driving innovation and operational excellence.
+          At UMass Amherst, I gained expertise in analytics, data visualization,
+          and machine learning, along with hands-on experience in Python, R,
+          SQL, Tableau, and cloud platforms. This program will prepare me to
+          process big data, build predictive models, and translate insights into
+          impactful business decisions.
         image:
           url: /images/UMass_Seal_Medium_PMS_202_0.png
           altText: Featured icon three
