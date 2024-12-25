@@ -80,9 +80,11 @@ sections:
         title: Experience
         subtitle: 4+ Years (Combined)
         text: >
-          Worked on operational efficiency, cost optimization, and disaster
-          recovery, driving significant automation and scalability improvements.
-          Awarded the "Temenos Infinity Star" for contributions in May 2023.
+          Data and Cloud Engineer with 2+ years at Temenos AG, driving $600,000
+          monthly savings through cloud optimization and 87% improvement in
+          operational efficiency. Founding member of Digital Equity, leveraging
+          data analytics to increase engagement by 35%. Recognized with Temenos
+          Infinity Star award. MS in Business Analytics from UMass Amherst.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
