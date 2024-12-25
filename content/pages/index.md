@@ -209,7 +209,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Two
+      - title: Site Reliability Engineer
         tagline: Temenos AG
         subtitle: This is the item subtitle
         text: |
