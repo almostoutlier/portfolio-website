@@ -30,6 +30,14 @@ sections:
         iconPosition: left
         style: secondary
         elementId: ''
+      - type: Link
+        altText: LinkedIn
+        url: 'https://www.linkedin.com/in/alahari-virinchi/'
+        showIcon: true
+        icon: linkedin
+        iconPosition: left
+        style: secondary
+        elementId: ''
     media:
       url: /images/main-hero.svg
       altText: Unblock your team boost your time to production preview
