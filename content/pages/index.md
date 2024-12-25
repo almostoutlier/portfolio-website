@@ -9,9 +9,9 @@ sections:
       type: TitleBlock
     subtitle: Data Enthusiast
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      I am a witty-minded Data Alchemist with a great passion for connecting the
+      dots and storytelling. I have strong foundation in Python, SQL, Azure,
+      Spark, Data Analytics and Machine Learning.
     actions:
       - label: Get started
         altText: ''
