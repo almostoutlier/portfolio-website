@@ -178,7 +178,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
+      text: About Me
       color: text-primary
       styles:
         self:
