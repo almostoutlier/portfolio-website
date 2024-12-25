@@ -134,11 +134,11 @@ sections:
       - title: Graduate
         subtitle: University of Massachusetts Amherst
         text: >
-          At UMass Amherst, I gained expertise in analytics, data visualization,
-          and machine learning, along with hands-on experience in Python, R,
-          SQL, Tableau, and cloud platforms. This program will prepare me to
-          process big data, build predictive models, and translate insights into
-          impactful business decisions.
+          At Isenberg School of Management, I gained expertise in analytics,
+          data visualization, and machine learning, along with hands-on
+          experience in Python, R, SQL, Tableau, and cloud platforms. This
+          program will prepare me to process big data, build predictive models,
+          and translate insights into impactful business decisions.
         image:
           url: /images/UMass_Seal_Medium_PMS_202_0.png
           altText: Featured icon three
