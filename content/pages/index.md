@@ -77,7 +77,7 @@ sections:
     subtitle: Subtitle goes here
     items:
       - type: FeaturedItem
-        title: Cloud Engineer
+        title: Problem Solving
         subtitle: Temenos AG
         text: >
           Worked on operational efficiency, cost optimization, and disaster
