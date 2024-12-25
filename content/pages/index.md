@@ -222,8 +222,7 @@ sections:
           efficiency by 87%. Automated configuration extraction for 40+
           microservices and improved deployment reliability with ARM templates
           and Bash scripting, achieving a 97% success rate across 500+ monthly
-          Azure deployments. Reduced cloud costs by automating infrastructure
-          and AKS shutdowns during idle periods.
+          Azure deployments.
         image:
           url: /images/b0883da24e0e923_2.png
           altText: Placeholder image
