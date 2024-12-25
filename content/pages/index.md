@@ -242,7 +242,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Data Engineer/ Founding Member
+      - title: Data Engineer
         tagline: Digital Equity Foundation
         subtitle: December 2020 - June 2023
         text: >
