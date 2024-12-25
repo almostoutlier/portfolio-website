@@ -131,7 +131,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: Graduate
+      - title: Student Supervisor
         subtitle: University of Massachusetts Amherst
         text: >
           At Isenberg School of Management, I gained expertise in analytics,
