@@ -155,6 +155,14 @@ sections:
             borderRadius: x-large
             flexDirection: row
         type: FeaturedItem
+        image:
+          type: ImageBlock
+          url: /images/hero2.svg
+          altText: Image alt text placeholder
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
     actions: []
     badge:
       label: Get To Know More
