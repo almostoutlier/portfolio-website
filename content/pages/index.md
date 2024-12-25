@@ -186,7 +186,7 @@ sections:
       type: TitleBlock
     subtitle: Key Highlights
     items:
-      - title: Feature Item One
+      - title: Cloud Engineer
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
