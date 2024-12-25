@@ -52,7 +52,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: 'Hi, This is'
+      label: 'Hello, This is'
       color: text-primary
       type: Badge
     elementId: ''
