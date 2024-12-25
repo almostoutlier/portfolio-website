@@ -147,7 +147,8 @@ sections:
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
-          url: /images/circle.png
+          url: >-
+            /images/leadership-icon-from-reputation-management-vector-31719548.jpg
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
