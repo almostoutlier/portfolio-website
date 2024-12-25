@@ -239,7 +239,7 @@ sections:
           Learn from the tutorial and build your first awesome Netlify Create
           site.
         image:
-          url: /images/black.png
+          url: /images/black.jpg
           altText: Placeholder image
           styles:
             self:
