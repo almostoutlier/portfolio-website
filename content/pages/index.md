@@ -106,7 +106,7 @@ sections:
             self:
               borderRadius: x-large
       - title: Data Engineer/ Founding Member
-        subtitle: The Job Stuff
+        subtitle: Digital Equity Foundation
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
