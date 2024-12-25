@@ -234,7 +234,7 @@ sections:
         type: FeaturedItem
       - title: Feature Item Three
         tagline: Digital Equity Foundation
-        subtitle: This is the item subtitle
+        subtitle: December 2020 - June 2023
         text: >
           Learn from the tutorial and build your first awesome Netlify Create
           site.
