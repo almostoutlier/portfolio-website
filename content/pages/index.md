@@ -245,13 +245,15 @@ sections:
       - title: Data Engineer
         tagline: Digital Equity Foundation
         subtitle: December 2020 - June 2023
-        text: >
-          Founding member leading social media automation, content optimization,
-          and campaign analytics. Launched an internship campaign attracting
-          1,500 remote college applicants. Executed multimedia campaigns
+        text: >+
+          Founding member driving social media automation, data-driven content
+          optimization, and campaign analytics. Executed multimedia campaigns
           boosting engagement by 30%, improved visual communication by 25%, and
           managed the website and social media. Collaborated on strategy
           development aligned with the organization’s mission.
+
+
+
         image:
           url: /images/white.jpg
           altText: Placeholder image
