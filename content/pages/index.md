@@ -157,7 +157,8 @@ sections:
         type: FeaturedItem
         image:
           type: ImageBlock
-          url: /images/hero2.svg
+          url: >-
+            /images/depositphotos_59774717-stock-illustration-graduation-cap-icon.jpg
           altText: Image alt text placeholder
           elementId: ''
           styles:
