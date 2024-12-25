@@ -104,6 +104,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
+          url: /images/t.jpg
       - title: Academics
         subtitle: M.Sc. Business Analytics
         text: >
