@@ -284,7 +284,7 @@ sections:
       - url: /images/wellster-logo.svg
         altText: Wellster logo
         type: ImageBlock
-      - url: /images/vise-logo.svg
+      - url: /images/93006_logo_512x512.png
         altText: Vise logo
         type: ImageBlock
       - url: /images/telus-logo.svg
