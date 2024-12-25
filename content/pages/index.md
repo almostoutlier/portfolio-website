@@ -114,7 +114,7 @@ sections:
           to enhance efficiency and scale efforts effectively.
         image:
           type: ImageBlock
-          url: /images/hero2.svg
+          url: /images/istockphoto-460357293-612x612.jpg
           altText: Image alt text placeholder
           elementId: ''
           styles:
