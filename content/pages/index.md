@@ -109,7 +109,7 @@ sections:
       - title: Academics
         subtitle: M.Sc. Business Analytics
         text: >
-          Graduate student in Business Analytics excelling in data-focused
+          Graduate student in **Business Analytics** excelling in data-focused
           curriculum. Strong academic foundation with perfect 4.0 GPA at **UMass
           Amherst**, building on Bachelor's in Electronics & Communication
           Engineering (3.9/4.0).
