@@ -48,7 +48,7 @@ sections:
         elementId: ''
     media:
       url: /images/WhatsApp Image 2024-12-24 at 7.56.58 PM.jpeg
-      altText: Unblock your team boost your time to production preview
+      altText: ''
       elementId: ''
       type: ImageBlock
     badge:
