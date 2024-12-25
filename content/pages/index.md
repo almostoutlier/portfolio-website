@@ -187,7 +187,7 @@ sections:
     subtitle: Key Highlights
     items:
       - title: Cloud Engineer
-        tagline: This is the tagline
+        tagline: Temenos AG
         subtitle: October 2022 - July 2023
         text: |
           Follow the tutorial to build your first Netlify Create site.
