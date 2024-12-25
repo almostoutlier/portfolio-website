@@ -158,7 +158,7 @@ sections:
         image:
           type: ImageBlock
           url: >-
-            /images/depositphotos_59774717-stock-illustration-graduation-cap-icon.jpg
+            /images/leadership-icon-from-reputation-management-vector-31719548.jpg
           altText: Image alt text placeholder
           elementId: ''
           styles:
