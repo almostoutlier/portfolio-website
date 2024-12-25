@@ -113,7 +113,7 @@ sections:
           and recruitment success. Leveraged advanced tools and machine learning
           to enhance efficiency and scale efforts effectively.
         image:
-          url: /images/istockphoto-460357293-612x612.jpg
+          url: /images/p.jpg
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
