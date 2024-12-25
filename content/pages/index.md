@@ -79,7 +79,10 @@ sections:
       - type: FeaturedItem
         title: Cloud Engineer
         subtitle: Temenos AG
-        text: ''
+        text: >
+          Worked on operational efficiency, cost optimization, and disaster
+          recovery, driving significant automation and scalability improvements.
+          Awarded the "Temenos Infinity Star" for contributions in May 2023.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
