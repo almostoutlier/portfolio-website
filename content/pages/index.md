@@ -144,7 +144,8 @@ sections:
           program will prepare me to process big data, build predictive models,
           and translate insights into impactful business decisions.
         image:
-          url: /images/UMass_Seal_Medium_PMS_202_0.png
+          url: >-
+            /images/leadership-icon-from-reputation-management-vector-31719548.jpg
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
