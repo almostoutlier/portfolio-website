@@ -106,7 +106,7 @@ sections:
             self:
               borderRadius: x-large
       - title: Academics
-        subtitle: Digital Equity Foundation
+        subtitle: M.Sc.
         text: >
           Founding member driving social media automation, data-driven content
           optimization, and campaign analytics, achieving significant engagement
