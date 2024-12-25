@@ -109,10 +109,10 @@ sections:
       - title: Academics
         subtitle: M.Sc. Business Analytics
         text: >
-          Founding member driving social media automation, data-driven content
-          optimization, and campaign analytics, achieving significant engagement
-          and recruitment success. Leveraged advanced tools and machine learning
-          to enhance efficiency and scale efforts effectively.
+          Graduate student in Business Analytics excelling in data-focused
+          curriculum. Strong academic foundation with perfect 4.0 GPA at UMass
+          Amherst, building on Bachelor's in Electronics & Communication
+          Engineering (3.9/4.0).
         image:
           type: ImageBlock
           url: /images/istockphoto-460357293-612x612.jpg
