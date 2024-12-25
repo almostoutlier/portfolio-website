@@ -85,7 +85,7 @@ sections:
           Awarded the "Temenos Infinity Star" for contributions in May 2023.
         actions: []
         elementId: null
-        colors: bg-neutral-fg-dark
+        colors: bg-neutralAlt-fg-dark
         styles:
           self:
             padding:
