@@ -101,7 +101,6 @@ sections:
           type: ImageBlock
           altText: Temenos Logo
           elementId: ''
-          url: /images/avatar1.svg
           styles:
             self:
               borderRadius: x-large
