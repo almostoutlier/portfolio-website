@@ -135,35 +135,6 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: Leadership
-        subtitle: ''
-        text: >
-          At Isenberg School of Management, I gained expertise in analytics,
-          data visualization, and machine learning, along with hands-on
-          experience in Python, R, SQL, Tableau, and cloud platforms. This
-          program will prepare me to process big data, build predictive models,
-          and translate insights into impactful business decisions.
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-        type: FeaturedItem
-        image:
-          type: ImageBlock
-          url: >-
-            /images/leadership-icon-from-reputation-management-vector-31719548.jpg
-          altText: Image alt text placeholder
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
     actions: []
     badge:
       label: Get To Know More
