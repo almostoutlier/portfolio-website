@@ -189,12 +189,14 @@ sections:
       - title: Cloud Engineer
         tagline: Temenos AG
         subtitle: October 2022 - July 2023
-        text: >
+        text: >+
           Optimized cloud infrastructure, saving 75% on costs and scaling
           solutions to achieve $600,000+ monthly savings. Enhanced system
           resilience, reducing downtime by 65% through Disaster Recovery
           planning. Collaborated on microservices deployment, resolving issues,
-          and delivering impactful enhancements.
+          and delivering impactful enhancements. Awarded the **"Temenos Infinity
+          Star"** for contributions in May 2023.
+
         image:
           url: /images/b0883da24e0e923_2.png
           altText: Placeholder Image
