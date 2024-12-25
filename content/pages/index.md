@@ -136,7 +136,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Leadership
-        subtitle: University of Massachusetts Amherst
+        subtitle: ''
         text: >
           At Isenberg School of Management, I gained expertise in analytics,
           data visualization, and machine learning, along with hands-on
