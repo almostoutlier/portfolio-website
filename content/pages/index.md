@@ -143,12 +143,6 @@ sections:
           experience in Python, R, SQL, Tableau, and cloud platforms. This
           program will prepare me to process big data, build predictive models,
           and translate insights into impactful business decisions.
-        image:
-          altText: Featured icon three
-          elementId: ''
-          type: ImageBlock
-          url: >-
-            /images/leadership-icon-from-reputation-management-vector-31719548.jpg
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
