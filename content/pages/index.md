@@ -178,7 +178,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: About Me
+      text: Professional Experience
       color: text-primary
       styles:
         self:
