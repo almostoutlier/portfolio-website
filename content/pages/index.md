@@ -115,7 +115,8 @@ sections:
           explicabo.
         image:
           type: ImageBlock
-          url: /images/icon1.svg
+          url: >-
+            /images/depositphotos_59774717-stock-illustration-graduation-cap-icon.jpg
           altText: Placeholder text
           elementId: ''
           styles:
