@@ -101,7 +101,7 @@ sections:
           type: ImageBlock
           altText: Temenos Logo
           elementId: ''
-          url: /images/t.png
+          url: /images/p.jpg
           styles:
             self:
               borderRadius: x-large
