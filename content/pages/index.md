@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Port-Folio
 slug: /
 sections:
   - type: GenericSection
