@@ -113,10 +113,13 @@ sections:
           and recruitment success. Leveraged advanced tools and machine learning
           to enhance efficiency and scale efforts effectively.
         image:
-          url: /images/p.jpg
-          altText: Featured icon two
-          elementId: ''
           type: ImageBlock
+          url: /images/hero2.svg
+          altText: Image alt text placeholder
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
