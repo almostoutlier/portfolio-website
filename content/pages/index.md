@@ -46,6 +46,15 @@ sections:
         iconPosition: right
         style: secondary
         elementId: ''
+      - type: Link
+        label: Send email
+        altText: Play
+        url: 'mailto:alaharivirinchi08@gmail.com'
+        showIcon: true
+        icon: mail
+        iconPosition: right
+        style: secondary
+        elementId: ''
     media:
       url: /images/WhatsApp Image 2024-12-24 at 7.56.58 PM.jpeg
       altText: ''
