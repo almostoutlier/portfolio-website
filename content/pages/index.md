@@ -133,10 +133,14 @@ sections:
         type: FeaturedItem
       - title: Graduate
         subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Pursuing an MSBA at UMass Amherst, I aim to master advanced analytics,
+          data visualization, and machine learning techniques. I will gain
+          hands-on experience with key technologies such as Python, R, SQL,
+          Tableau, and cloud platforms like AWS and Azure, while honing skills
+          in big data processing, predictive modeling, and business strategy.
+          This program will equip me to translate complex data insights into
+          impactful decisions, driving innovation and operational excellence.
         image:
           url: /images/UMass_Seal_Medium_PMS_202_0.png
           altText: Featured icon three
