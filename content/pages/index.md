@@ -105,7 +105,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: Data Engineer
+      - title: Academics
         subtitle: Digital Equity Foundation
         text: >
           Founding member driving social media automation, data-driven content
