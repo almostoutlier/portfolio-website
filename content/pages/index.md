@@ -99,7 +99,7 @@ sections:
             textAlign: left
         image:
           type: ImageBlock
-          altText: Lightning bolt symbol on red background
+          altText: Temenos Logo
           elementId: ''
           url: /images/b0883da24e0e923_2.png
           styles:
