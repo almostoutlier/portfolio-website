@@ -138,7 +138,7 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
-          url: /images/icon3.svg
+          url: /images/UMass_Seal_Medium_PMS_202_0.png
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
