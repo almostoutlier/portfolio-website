@@ -105,7 +105,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: Data Engineer/ Founding Member
+      - title: Data Engineer
         subtitle: Digital Equity Foundation
         text: >
           Worked on social media automation, data-driven content optimization,
