@@ -113,7 +113,7 @@ sections:
           Leveraged advanced tools and machine learning to increase efficiency
           and scale efforts effectively.
         image:
-          url: /images/icon2.svg
+          url: /images/black.png
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
