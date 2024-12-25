@@ -80,11 +80,9 @@ sections:
         title: Experience
         subtitle: 4+ Years (Combined)
         text: >
-          Data and Cloud Engineer with 2+ years at Temenos AG, driving $600,000
-          monthly savings through cloud optimization and 87% improvement in
-          operational efficiency. Founding member of Digital Equity, leveraging
-          data analytics to increase engagement by 35%. Recognized with Temenos
-          Infinity Star award. MS in Business Analytics from UMass Amherst.
+          Data/Cloud Engineer with proven success in cost optimization and
+          automation at Temenos AG. Led initiatives saving $600,000 monthly.
+          Founding member of Digital Equity, driving data-driven solutions.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
