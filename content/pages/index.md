@@ -216,8 +216,14 @@ sections:
       - title: Site Reliability Engineer
         tagline: Temenos AG
         subtitle: July 2021 - September 2022
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: >
+          Streamlined microservice updates by automating processes, reducing
+          release times from 32 hours to 4, and optimizing operational
+          efficiency by 87%. Automated configuration extraction for 40+
+          microservices and improved deployment reliability with ARM templates
+          and Bash scripting, achieving a 97% success rate across 500+ monthly
+          Azure deployments. Reduced cloud costs by automating infrastructure
+          and AKS shutdowns during idle periods.
         image:
           url: /images/b0883da24e0e923_2.png
           altText: Placeholder image
