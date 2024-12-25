@@ -78,7 +78,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Cloud Engineer
-        subtitle: Numbers Done
+        subtitle: Temenos AG
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
