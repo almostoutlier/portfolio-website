@@ -215,6 +215,10 @@ sections:
       subtitle:
         textAlign: center
     type: ImageGallerySection
+    badge:
+      type: Badge
+      label: This is a badge
+      color: text-primary
   - title:
       text: Professional Experience
       color: text-primary
