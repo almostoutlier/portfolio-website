@@ -79,10 +79,7 @@ sections:
       - type: FeaturedItem
         title: Cloud Engineer
         subtitle: Temenos AG
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: ''
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
