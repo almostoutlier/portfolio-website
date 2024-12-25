@@ -197,7 +197,7 @@ sections:
     subtitle: Our customers
     images:
       - type: ImageBlock
-        url: /images/12345678.jpg
+        url: /images/wellster-logo.jpg
         altText: Wellster logo
         elementId: ''
       - type: ImageBlock
