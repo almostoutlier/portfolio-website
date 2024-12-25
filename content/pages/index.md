@@ -132,7 +132,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Graduate
-        subtitle: University of Massachuetts Anherst
+        subtitle: University of Massachusetts Anherst
         text: >
           At UMass Amherst, I gained expertise in analytics, data visualization,
           and machine learning, along with hands-on experience in Python, R,
