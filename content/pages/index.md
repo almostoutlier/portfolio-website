@@ -13,7 +13,7 @@ sections:
       dots and storytelling. I have strong foundation in Python, SQL, Azure,
       Spark, Data Analytics and Machine Learning.
     actions:
-      - label: Download Resume
+      - label: View Resume
         altText: ''
         url: /
         showIcon: false
