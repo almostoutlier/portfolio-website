@@ -189,8 +189,12 @@ sections:
       - title: Cloud Engineer
         tagline: Temenos AG
         subtitle: October 2022 - July 2023
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          Optimized cloud infrastructure, saving 75% on costs and scaling
+          solutions to achieve $600,000+ monthly savings. Enhanced system
+          resilience, reducing downtime by 65% through Disaster Recovery
+          planning. Collaborated on microservices deployment, resolving issues,
+          and delivering impactful enhancements.
         image:
           url: /images/b0883da24e0e923_2.png
           altText: Placeholder Image
