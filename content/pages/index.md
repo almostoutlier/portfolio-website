@@ -108,10 +108,10 @@ sections:
       - title: Data Engineer
         subtitle: Digital Equity Foundation
         text: >
-          Worked on social media automation, data-driven content optimization,
-          and campaign analytics, driving engagement and recruitment success.
-          Leveraged advanced tools and machine learning to increase efficiency
-          and scale efforts effectively.
+          Founding member driving social media automation, data-driven content
+          optimization, and campaign analytics, achieving significant engagement
+          and recruitment success. Leveraged advanced tools and machine learning
+          to enhance efficiency and scale efforts effectively.
         image:
           url: /images/black.png
           altText: Featured icon two
