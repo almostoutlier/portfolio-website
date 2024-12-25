@@ -82,7 +82,8 @@ sections:
         text: >
           Data/Cloud Engineer with proven success in cost optimization and
           automation at Temenos AG. Led initiatives saving $600,000 monthly.
-          Founding member of Digital Equity, driving data-driven solutions.
+          Founding member of Digital Equity Foundation, driving data-driven
+          solutions.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
