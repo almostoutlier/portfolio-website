@@ -185,6 +185,37 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - subtitle: Skills & Technologies
+    images:
+      - url: /images/empathy-logo.svg
+        altText: Empathy logo
+        type: ImageBlock
+      - url: /images/wellster-logo.svg
+        altText: Wellster logo
+        type: ImageBlock
+      - url: /images/93006_logo_512x512.png
+        altText: Vise logo
+        type: ImageBlock
+      - url: /images/telus-logo.svg
+        altText: Telus logo
+        type: ImageBlock
+      - url: /images/contenful-logo.svg
+        altText: Contentful logo
+        type: ImageBlock
+      - url: /images/sanity-logo.svg
+        altText: Sanity logo
+        type: ImageBlock
+      - url: /images/rangle-logo.svg
+        altText: Rangle logo
+        type: ImageBlock
+    motion: move-to-left
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    type: ImageGallerySection
   - title:
       text: Professional Experience
       color: text-primary
@@ -294,37 +325,6 @@ sections:
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
-  - subtitle: Skills & Technologies
-    images:
-      - url: /images/empathy-logo.svg
-        altText: Empathy logo
-        type: ImageBlock
-      - url: /images/wellster-logo.svg
-        altText: Wellster logo
-        type: ImageBlock
-      - url: /images/93006_logo_512x512.png
-        altText: Vise logo
-        type: ImageBlock
-      - url: /images/telus-logo.svg
-        altText: Telus logo
-        type: ImageBlock
-      - url: /images/contenful-logo.svg
-        altText: Contentful logo
-        type: ImageBlock
-      - url: /images/sanity-logo.svg
-        altText: Sanity logo
-        type: ImageBlock
-      - url: /images/rangle-logo.svg
-        altText: Rangle logo
-        type: ImageBlock
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
