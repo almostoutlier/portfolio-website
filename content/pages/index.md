@@ -107,7 +107,7 @@ sections:
               borderRadius: x-large
           url: /images/t.jpg
       - title: Academics
-        subtitle: M.Sc. Business Analytics
+        subtitle: M.S. Business Analytics
         text: >
           Graduate student in **Business Analytics** excelling in data-focused
           curriculum. Strong academic foundation with perfect 4.0 GPA at **UMass
