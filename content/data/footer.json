@@ -51,7 +51,7 @@
         },
         {
             "altText": "Email link",
-            "url": "/",
+            "url": "mailto:alaharivirinchi08@gmail.com",
             "icon": "mail",
             "type": "Social"
         }
