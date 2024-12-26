@@ -147,10 +147,10 @@ sections:
       - type: FeaturedItem
         title: Problem-Solver
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Strong in problem-solving, leadership, and adaptability with a proven
+          ability to communicate effectively and deliver results in
+          collaborative, cross-functional environments.
         image:
           type: ImageBlock
           url: /images/icon1.svg
