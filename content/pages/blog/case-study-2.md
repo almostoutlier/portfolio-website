@@ -1,5 +1,5 @@
 ---
-title: 2021 Olympic Analysis
+title: 2021 Olympic Analysis using Azure Databricks & Synapse
 slug: case-study-2
 date: '2024-12-25'
 excerpt: ''
