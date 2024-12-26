@@ -1,5 +1,5 @@
 ---
-title: Custom Resume Generator
+title: Custom Resume Generator using Gemini
 slug: case-study-3
 date: '2024-12-25'
 excerpt: ''
