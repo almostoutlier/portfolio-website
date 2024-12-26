@@ -195,8 +195,9 @@ sections:
         textAlign: center
   - type: ImageGallerySection
     subtitle: >-
-      Python | Azure DevOps | Databricks | Spark | CI/CD | ETL/ELT | Machine
-      Learning | Data Science | Data Mining | Statistics |
+      Python | SQL | Azure DevOps | Snowflake | Data Factory | Databricks |
+      Spark | CI/CD | ETL/ELT | Machine Learning | Data Science | Data Mining |
+      Power BI | Tableau | Statistics 
     images: []
     elementId: skill
     motion: move-to-right
