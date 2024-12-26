@@ -377,11 +377,11 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Collaboration Request
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      If you'd like to work together on an exciting project, have any questions,
+      or just want to say hello, feel free to reach out. Simply fill out the
+      form below, and I'll get back to you as soon as possible. Looking forward
+      to connecting!
     media:
       fields:
         - name: name
