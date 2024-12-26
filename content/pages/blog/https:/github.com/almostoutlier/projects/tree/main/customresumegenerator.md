@@ -4,7 +4,7 @@ slug: 'https://github.com/almostoutlier/Projects/tree/main/CustomResumeGenerator
 date: '2022-01-05'
 excerpt: ''
 featuredImage:
-  url: /images/1_fvsBFUAfO_p4PZjjg9IyPw.jpg
+  url: /images/dash-sales.png
   altText: Case study 1
   styles:
     self:
