@@ -4,7 +4,7 @@ slug: case-study-2
 date: '2024-12-25'
 excerpt: ''
 featuredImage:
-  url: /images/img-placeholder.svg
+  url: /images/900px-Olympic_flag.svg_.png
   altText: Case study 2
   styles:
     self:
