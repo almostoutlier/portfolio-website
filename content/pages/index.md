@@ -153,7 +153,7 @@ sections:
           collaborative, cross-functional environments.
         image:
           type: ImageBlock
-          url: /images/icon1.svg
+          url: /images/problem-solving-outline-icon-free-vector.jpg
           altText: Placeholder text
           elementId: ''
           styles:
