@@ -1,5 +1,5 @@
 ---
-title: Custom Resume Generator
+title: Sales Dashboard using Power BI
 slug: 'https://github.com/almostoutlier/Projects/tree/main/CustomResumeGenerator'
 date: '2022-01-05'
 excerpt: ''
