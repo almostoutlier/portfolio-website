@@ -376,7 +376,7 @@ sections:
       text: Send an Email
       color: text-dark
       type: TitleBlock
-    subtitle: Colloboration Request
+    subtitle: Collaboration Request
     text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
