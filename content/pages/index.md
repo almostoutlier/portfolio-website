@@ -376,7 +376,7 @@ sections:
       text: Let's Collaborate
       color: text-dark
       type: TitleBlock
-    subtitle: Collaboration Request
+    subtitle: ''
     text: >
       If you'd like to work together on an exciting project, have any questions,
       or just want to say hello, feel free to reach out. Simply fill out the
