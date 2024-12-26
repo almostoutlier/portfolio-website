@@ -199,9 +199,6 @@ sections:
       Data Mining
     images:
       - type: ImageBlock
-        altText: Contentful logo
-        elementId: ''
-      - type: ImageBlock
         url: /images/sanity-logo.svg
         altText: Sanity logo
         elementId: ''
