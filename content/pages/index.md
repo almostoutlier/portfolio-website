@@ -230,7 +230,7 @@ sections:
         textAlign: center
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: 'Skills & Technologies '
       color: text-dark
   - title:
       text: Professional Experience
