@@ -197,7 +197,6 @@ sections:
     subtitle: Skills and Technologies
     images:
       - type: ImageBlock
-        url: /images/telus-logo.svg
         altText: Telus logo
         elementId: ''
       - type: ImageBlock
