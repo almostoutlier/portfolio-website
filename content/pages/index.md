@@ -194,7 +194,7 @@ sections:
       subtitle:
         textAlign: center
   - type: ImageGallerySection
-    subtitle: Our customers
+    subtitle: Skills and Technologies
     images:
       - type: ImageBlock
         url: /images/vise-logo.svg
