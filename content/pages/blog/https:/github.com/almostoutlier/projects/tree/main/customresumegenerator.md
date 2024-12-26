@@ -1,6 +1,6 @@
 ---
 title: Custom Resume Generator
-slug: case-study-1
+slug: 'https://github.com/almostoutlier/Projects/tree/main/CustomResumeGenerator'
 date: '2022-01-05'
 excerpt: ''
 featuredImage:
