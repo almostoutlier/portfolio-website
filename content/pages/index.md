@@ -373,7 +373,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Send an Email
+      text: Let's Collaborate
       color: text-dark
       type: TitleBlock
     subtitle: Collaboration Request
