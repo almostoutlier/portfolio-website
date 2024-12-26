@@ -4,7 +4,7 @@ slug: case-study-3
 date: '2024-12-25'
 excerpt: ''
 featuredImage:
-  url: /images/1_fvsBFUAfO_p4PZjjg9IyPw.jpg
+  url: /images/dash-sales.png
   altText: ''
   styles:
     self:
