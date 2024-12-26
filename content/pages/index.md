@@ -350,7 +350,7 @@ sections:
     hoverEffect: move-up
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: This section is for Projects
       color: text-dark
   - title: Divider
     colors: bg-light-fg-dark
