@@ -426,7 +426,7 @@ sections:
         style: primary
         elementId: null
     badge:
-      label: 'Contact '
+      label: ''
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
