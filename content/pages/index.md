@@ -196,7 +196,7 @@ sections:
   - type: ImageGallerySection
     subtitle: >-
       Python | Azure DevOps | Databricks | Machine Learning | Data Science |
-      Data Mining
+      Data Mining | Statistics | 
     images: []
     elementId: skill
     motion: move-to-right
