@@ -194,7 +194,7 @@ sections:
       subtitle:
         textAlign: center
   - type: ImageGallerySection
-    subtitle: Skills and Technologies
+    subtitle: 'Python '
     images:
       - type: ImageBlock
         altText: Telus logo
