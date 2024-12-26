@@ -1,7 +1,7 @@
 ---
 title: Sales Dashboard using Power BI
 slug: 'https://github.com/almostoutlier/Projects/tree/main/CustomResumeGenerator'
-date: '2022-01-05'
+date: '2024-12-25'
 excerpt: ''
 featuredImage:
   url: /images/dash-sales.png
