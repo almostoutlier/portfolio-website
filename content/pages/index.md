@@ -350,7 +350,7 @@ sections:
     hoverEffect: move-up
     title:
       type: TitleBlock
-      text: Acadamic & Portfolio Projects
+      text: Academic & Portfolio Projects
       color: text-dark
   - title: Divider
     colors: bg-light-fg-dark
