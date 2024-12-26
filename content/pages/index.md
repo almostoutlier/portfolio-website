@@ -219,7 +219,7 @@ sections:
         textAlign: center
     title:
       type: TitleBlock
-      text: 'Skills & Technologies '
+      text: Top Skills & Technologies I possess
       color: text-dark
   - title:
       text: Professional Experience
