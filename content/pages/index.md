@@ -198,7 +198,7 @@ sections:
       Python | Azure DevOps | Databricks | Machine Learning | Data Science |
       Data Mining
     images: []
-    elementId: ''
+    elementId: skill
     motion: move-to-right
     colors: bg-light-fg-dark
     styles:
