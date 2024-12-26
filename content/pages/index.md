@@ -194,7 +194,9 @@ sections:
       subtitle:
         textAlign: center
   - type: ImageGallerySection
-    subtitle: 'Python '
+    subtitle: >-
+      Python | Azure DevOps | Databricks | Machine Learning | Data Science |
+      Data Mining
     images:
       - type: ImageBlock
         altText: Telus logo
