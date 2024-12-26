@@ -200,7 +200,7 @@ sections:
       Power BI | Tableau | Statistics 
     images: []
     elementId: skill
-    motion: move-to-right
+    motion: static
     colors: bg-light-fg-dark
     styles:
       self:
