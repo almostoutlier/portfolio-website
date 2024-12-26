@@ -197,11 +197,7 @@ sections:
     subtitle: >-
       Python | Azure DevOps | Databricks | Machine Learning | Data Science |
       Data Mining
-    images:
-      - type: ImageBlock
-        url: /images/rangle-logo.svg
-        altText: Rangle logo
-        elementId: ''
+    images: []
     elementId: ''
     motion: move-to-right
     colors: bg-light-fg-dark
