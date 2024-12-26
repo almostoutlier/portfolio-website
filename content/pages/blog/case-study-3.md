@@ -1,7 +1,7 @@
 ---
 title: Custom Resume Generator
 slug: case-study-3
-date: '2021-11-18'
+date: '2024-12-25'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
   tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
