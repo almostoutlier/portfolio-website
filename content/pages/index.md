@@ -220,6 +220,10 @@ sections:
       type: TitleBlock
       text: 'Skills & Technologies '
       color: text-dark
+    badge:
+      type: Badge
+      label: Test Skill
+      color: text-primary
   - title:
       text: Professional Experience
       color: text-primary
