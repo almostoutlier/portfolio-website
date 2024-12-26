@@ -201,7 +201,7 @@ sections:
     images: []
     elementId: skill
     motion: static
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         margin:
