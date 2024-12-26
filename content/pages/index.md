@@ -228,6 +228,10 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+    title:
+      type: TitleBlock
+      text: This Is A Big Headline
+      color: text-dark
   - title:
       text: Professional Experience
       color: text-primary
